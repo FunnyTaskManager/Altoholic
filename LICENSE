@@ -1,0 +1,12 @@
+Altoholic, Altoholic_Achievements, DataStore and the DataStore_* modules
+Author: Thaoky (EU-Marécages de Zangar)
+
+All Rights Reserved unless otherwise explicitly stated.
+
+The line above is the license text of the original package (Altoholic 3.3.002b, Curse package r90, 2010-07-06).
+The same text is kept in LICENSE.txt inside every addon folder.
+
+Bundled libraries keep their own licenses as stated in their files:
+LibBabble-Boss-3.0, LibBabble-Faction-3.0, LibBabble-Inventory-3.0, LibBabble-Zone-3.0: MIT
+LibPeriodicTable-3.1 and its data modules: LGPL v2.1
+LibStub: Public Domain
