@@ -2,4 +2,4 @@ name: Altoholic
 description: README.md
 version: 1
 category: 9
-directories: ["Altoholic-Addon/Altoholic", "Altoholic-Addon/Altoholic_Achievements", "Altoholic-Addon/DataStore", "Altoholic-Addon/DataStore_Achievements", "Altoholic-Addon/DataStore_Auctions", "Altoholic-Addon/DataStore_Characters", "Altoholic-Addon/DataStore_Containers", "Altoholic-Addon/DataStore_Crafts", "Altoholic-Addon/DataStore_Currencies", "Altoholic-Addon/DataStore_Inventory", "Altoholic-Addon/DataStore_Mails", "Altoholic-Addon/DataStore_Pets", "Altoholic-Addon/DataStore_Quests", "Altoholic-Addon/DataStore_Reputations", "Altoholic-Addon/DataStore_Skills", "Altoholic-Addon/DataStore_Spells", "Altoholic-Addon/DataStore_Stats", "Altoholic-Addon/DataStore_Talents"]
+directories: ["Altoholic", "Altoholic_Achievements", "DataStore", "DataStore_Achievements", "DataStore_Auctions", "DataStore_Characters", "DataStore_Containers", "DataStore_Crafts", "DataStore_Currencies", "DataStore_Inventory", "DataStore_Mails", "DataStore_Pets", "DataStore_Quests", "DataStore_Reputations", "DataStore_Skills", "DataStore_Spells", "DataStore_Stats", "DataStore_Talents"]
