@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Inventory
-## Notes: Stores information about character inventory
+## Notes: |@Version: 1@|Stores information about character inventory
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002
 ## Dependencies: DataStore

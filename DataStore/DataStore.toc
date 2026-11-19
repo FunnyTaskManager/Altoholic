@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore
-## Notes: Main DataStore Module
+## Notes: |@Version: 1@|Main DataStore Module
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## OptionalDeps: Ace3, LibAboutPanel 

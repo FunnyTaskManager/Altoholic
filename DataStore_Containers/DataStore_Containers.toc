@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Containers
-## Notes: Stores information about character bags, bank, and guild banks
+## Notes: |@Version: 1@|Stores information about character bags, bank, and guild banks
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore

@@ -6,10 +6,10 @@
 ## X-Curse-Project-ID: altoholic
 ## X-Curse-Repository-ID: wow/altoholic/mainline
 
-## Notes: Provides information about your alts
-## Notes-ruRU: Предоставляет информацию о вашем персонажах
-## Notes-zhTW: 讓你即時撿閱你所有角色的資料
-## Notes-zhCN: 能让你全面掌握你的所有角色的信息。
+## Notes: |@Version: 1@|Provides information about your alts
+## Notes-ruRU: |@Version: 1@|Предоставляет информацию о вашем персонажах
+## Notes-zhTW: |@Version: 1@|讓你即時撿閱你所有角色的資料
+## Notes-zhCN: |@Version: 1@|能让你全面掌握你的所有角色的信息。
 
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002b

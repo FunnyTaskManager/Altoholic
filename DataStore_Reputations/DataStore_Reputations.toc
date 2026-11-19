@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Reputations
-## Notes: Stores information about character reputation levels
+## Notes: |@Version: 1@|Stores information about character reputation levels
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore

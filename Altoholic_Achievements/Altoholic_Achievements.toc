@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: Altoholic_Achievements
-## Notes: Altoholic's Achievements UI
+## Notes: |@Version: 1@|Altoholic's Achievements UI
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.002
 ## Dependencies: Altoholic, DataStore, DataStore_Achievements, DataStore_Characters

@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Currencies
-## Notes: Stores information about character currencies
+## Notes: |@Version: 1@|Stores information about character currencies
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore

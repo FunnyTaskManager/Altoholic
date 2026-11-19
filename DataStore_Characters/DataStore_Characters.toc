@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Characters
-## Notes: Stores information about characters (race, level, etc..)
+## Notes: |@Version: 1@|Stores information about characters (race, level, etc..)
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore

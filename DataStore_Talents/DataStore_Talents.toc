@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Talents
-## Notes: Stores information about character talents
+## Notes: |@Version: 1@|Stores information about character talents
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore

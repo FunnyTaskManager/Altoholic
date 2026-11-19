@@ -1,6 +1,6 @@
 ﻿## Interface: 30300
 ## Title: DataStore_Quests
-## Notes: Stores information about character quests
+## Notes: |@Version: 1@|Stores information about character quests
 ## Author: Thaoky (EU-Marécages de Zangar)
 ## Version: 3.3.001
 ## Dependencies: DataStore
